@@ -5,7 +5,7 @@
 
 -Wind Speed increases greatly in cities below the Equator with the most common speed occuring between 0 and 20 mph. 
 
--Tempature plot graph looks like a mustache as well as an inkblot of the shape of Hawaii
+-Temperature plot graph looks like a mustache as well as an inkblot of the shape of Hawaii
 
 
 ```python
